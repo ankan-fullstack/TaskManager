@@ -1,0 +1,18 @@
+# Build output
+out/
+bin/
+*.class
+
+# IDE configuration
+.idea/
+*.iml
+.vscode/
+
+# Environment files and secrets
+.env
+.env.*
+*.key
+
+# OS specific files
+.DS_Store
+Thumbs.db
